@@ -128,3 +128,19 @@ main{
     text-align: center;
     margin-top: 30px;
 }
+#what-i-do-description{
+    padding: 30px 130px;
+}
+.skill-container{
+    display: flex;
+    gap: 20px;
+
+}
+.skill{
+    padding: 30px 25px;
+    border: 2px solid tomato;
+    gap: 30px;
+}
+.skill-description{
+    text-align: justify;
+}
